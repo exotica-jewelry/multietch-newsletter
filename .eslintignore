@@ -1,6 +1,3 @@
-# Builds
-dist
-
 # Config files
 .editorconfig
 .gitignore
@@ -13,6 +10,9 @@ LICENSE*.*
 # Temporary files
 .tmp/
 *.tmp
+
+# Builds
+dist
 
 # Package files, since these will be auto-generated
 package.json
@@ -49,11 +49,6 @@ lerna-debug.log*
 
 # COMPONENT-SPECIFIC
 
-# Sublime Text Package Control-specific files
-Package Control.last-run
-Package Control.ca-list
-Package Control.ca-bundle
-
 # Optional REPL history
 .node_repl_history
 
@@ -71,6 +66,3 @@ typings/
 
 # Grunt intermediate storage
 .grunt
-
-# Output of 'npm pack'
-*.tgz
