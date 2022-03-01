@@ -1,0 +1,22 @@
+{
+  "name": "multietch-newsletter",
+  "version": "1.0.0",
+  "description": "Newsletter for MultiEtch.com",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exotica-jewelry/multietch-newsletter.git"
+  },
+  "author": "Ivan Boothe <git@rootwork.org> (https://rootwork.org/)",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/exotica-jewelry/multietch-newsletter#readme",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "prettier": "^2.5.1",
+    "pretty-quick": "^3.1.3"
+  }
+}
