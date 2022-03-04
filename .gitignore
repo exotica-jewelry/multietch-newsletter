@@ -72,6 +72,3 @@ lerna-debug.log*
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
-
-# Output of 'npm pack'
-*.tgz
