@@ -217,7 +217,7 @@ sections:
 # See "Color values" at the top of this document.
 colors:
   # primary: Color for buttons, navigation menus, and social media icons.
-  primary: '#800080'
+  primary: '#46175b'
   # secondary: Color for headline text.
   secondary: '#666f9f'
 
