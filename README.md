@@ -3,6 +3,9 @@
 Newsletter for [Multi-Etch](https://www.multietch.com/), a safer alternative to
 hydrofluoric acid for etching titanium and other metals.
 
+* [Instructions for using with Zoho Campaigns](zoho.md)
+* [Style guide](styleguide.md)
+
 ## Tooling
 
 Built with [Premail](https://premail.dev/).
