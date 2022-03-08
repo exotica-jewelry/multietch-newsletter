@@ -254,11 +254,11 @@ fonts:
       # https://css-tricks.com/kinda-can-use-custom-fonts-html-emails/
       enabled: true
       # name: The name of the Google Font. Capitalization and spaces count!
-      name: Source Sans Pro
+      name: Hind
       # weights: The font weight(s) you want to use (enter in ascending order):
       weights:
         - 400
-        - 900
+        - 700
       # italics: Whether to include an italic variant for each weight
       italics: true
 
