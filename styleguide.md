@@ -1,10 +1,14 @@
 # Style guide for Multi-Etch emails
 
+When developing new designs for Multi-Etch emails, the following style guide
+should be used.
+
 * Logo is [hosted on Zoho](https://campaign-image.com/zohocampaigns/multietch_zc_v9_1_722626000001654004.png).
 * Brand purple is `#46175b`.
-* Font stack uses [Google Fonts' Hind](https://fonts.google.com/specimen/Hind)
-followed by (via Premail) system fonts with emoji support. Of course, only some
-email clients will see the custom font.
+* The current font stack uses
+[Google Fonts' Hind](https://fonts.google.com/specimen/Hind), though this could
+be changed in a new design. Premail will then append system fonts with emoji
+support. Remember that only some email clients will see the custom font.
 * In-text links should always be underlined. Exceptions are only for obvious
 menu items (i.e. not "in-text"), buttons (see below) or linked images/graphics.
 * Buttons should be of the form:
