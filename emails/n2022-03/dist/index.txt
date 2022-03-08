@@ -1,7 +1,3 @@
-https://www.multietch.com/
-
-Etching safely with and without Multi-Etch
-
 Dear $[FNAME|Multi-Etch User|Multi-Etch User]$,
 
 We developed Multi-Etch in 1993 in order to use something
@@ -16,8 +12,8 @@ This is one in a series of free online classes from IPEC
 Global [http://ipecglobal.com/] about etching and anodizing
 titanium. The information is not new but is still very
 relevant. There are several more lessons on anodizing that
-are available free with an email
-[https://www.anodizetitanium.com/].
+are available free with an email:
+https://www.anodizetitanium.com
 
 ETCHING SAFETY AND ENVIRONMENTAL ISSUES: AN OVERVIEW
 
@@ -44,15 +40,15 @@ your head in the sand, ignore the regulations, and hope
 nobody finds out. IPEC Global has been doing this kind of
 work for the past 30 years and have learned that you can do
 this and do it well, but only if you decide to do it right.
-Continue reading
-[https://www.multietch.com/blog/etching-safety-environmental-issues]
+
+CONTINUE READING:
+https://www.multietch.com/blog/etching-safety-environmental-issues
+
 There are still companies that have been using HF for a long
 time and for those companies, we offer the following new
-protocols for using hydrofluoric acid (PDF)
-[https://www.cmu.edu/ehs/Laboratory-Safety/chemical-safety/documents/sop-for-the-use-of-hydrofluoric-acid.pdf]
-from Carnegie Mellon University’s Hydrofluoric Acid Safety
-Program
-[https://www.cmu.edu/piper/news/archives/2021/august/august-5-briefs.html].
+protocols for using hydrofluoric acid (PDF) from Carnegie Mellon University’s
+Hydrofluoric Acid Safety Program:
+https://www.cmu.edu/ehs/Laboratory-Safety/chemical-safety/documents/sop-for-the-use-of-hydrofluoric-acid.pdf
 
 Happy etching!
 
@@ -60,27 +56,25 @@ Chris Boothe
 
 Multi-Etch Answer Man
 
+https://www.multietch.com
+
 https://www.facebook.com/multietch
-
-https://www.instagram.com/multietch/
-
+https://www.instagram.com/multietch
 https://www.youtube.com/multietch
-
 https://twitter.com/multietch
-
 https://www.linkedin.com/company/multietch
-
-Blog
-[https://mjml.iohttps://www.multietch.com/multietch-blog.html]
-Order [https://mjml.iohttps://www.multietch.com/order.html]
-Contact [https://mjml.iohttps://www.multietch.com/contactus]
 
 You’re receiving this email because you have purchased
 Multi-Etch, done business with us in the past, or signed up
 to receive our newsletter on the MultiEtch.com website.
-Unsubscribe [$[LI:UNSUBSCRIBE]$]
-Multi-Etch, LLC [https://www.multietch.com/], P. O. Box 9,
+
+Unsubscribe:
+$[LI:UNSUBSCRIBE]$
+
+Multi-Etch, LLC
+P.O. Box 9
 Clarkdale, AZ 86324 USA
+
 “Multi-Etch” is a registered trademark of Exotica Jewelry,
 Inc. Text, logos, and images are copyrighted by Multi-Etch,
 LLC or their respective copyright-holders as noted in the
