@@ -34,6 +34,10 @@ opened, replacing everything that's there.
 know). You may have to remove line-breaks.
 * If the content-editing screen doesn't close automatically, click "Save and
 Next".
+* Zoho sometimes displays an error message here about custom font stylesheets
+not being loaded. Re-saving (or reloading in the browser) of the email seems to
+make this go away -- and fonts are loaded just fine -- so this seems to be a
+Zoho bug.
 * To the right of the content preview, click "Edit plain text".
 * Zoho will have auto-generated a plain-text version of the newsletter. Copy and
 paste Premail's plain-text version, replacing everything that's there. You may
