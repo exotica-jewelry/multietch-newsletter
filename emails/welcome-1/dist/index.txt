@@ -5,7 +5,8 @@ you be successful with Multi-Etch by periodically sending
 you some tips by email.
 
 If you’d rather not get these, however, no hard feelings:
-You can unsubscribe. [$[LI:UNSUBSCRIBE]$]
+You can unsubscribe:
+$[LI:UNSUBSCRIBE]$
 
 HOW CAN WE HELP YOU?
 
@@ -86,7 +87,8 @@ You’re receiving this email because you have purchased
 Multi-Etch, done business with us in the past, or signed up
 to receive our newsletter on the MultiEtch.com website.
 
-Unsubscribe [$[LI:UNSUBSCRIBE]$]
+Unsubscribe:
+$[LI:UNSUBSCRIBE]$
 
 Multi-Etch, LLC
 P.O. Box 9
