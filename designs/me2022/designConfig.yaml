@@ -295,9 +295,9 @@ text:
     # horizontalPadding: See "Size values" at the top of this document.
     horizontalPadding: 16px
     # verticalPadding: See "Size values" at the top of this document.
-    verticalPadding: 0px
+    verticalPadding: 12px
     # size: See "Size values" at the top of this document.
-    size: 16px
+    size: 22px
     # color: See "Color values" at the top of this document.
     color: '#fff'
     # weight: Any valid CSS font-weight value may be used.
